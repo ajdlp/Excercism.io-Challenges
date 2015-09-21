@@ -1,6 +1,6 @@
 # Excercism.io-Ruby-Challenges
 
-= Challenges
+** Challenges
 * Hello World
 
 * Hamming
