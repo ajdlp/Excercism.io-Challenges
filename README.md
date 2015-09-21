@@ -1,4 +1,4 @@
-== Excercism.io-Ruby-Challenges
+# Excercism.io-Ruby-Challenges
 
 = Challenges
 * Hello World
